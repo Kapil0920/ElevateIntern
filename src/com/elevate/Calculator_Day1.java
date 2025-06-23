@@ -35,6 +35,9 @@ public class Calculator_Day1 {
 		System.out.println("Hello Day");
 		
 		
+		
+		
+		
 		do {
 			System.out.println("What do you want to do Add, Subtract, Multiply or Divide");
 			String answer = sc.next();
