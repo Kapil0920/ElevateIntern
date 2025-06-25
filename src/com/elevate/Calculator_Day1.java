@@ -141,5 +141,7 @@ public class Calculator_Day1 {
 			
 			
 		} while (forNextOperation.equalsIgnoreCase("yes")); // Repeat if user says "yes"
+		
+		System.out.println("Thanks for using my services");
 	}
 }
